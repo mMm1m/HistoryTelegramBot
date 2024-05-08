@@ -1,0 +1,1474 @@
+2024-05-08 08:41:55 DEBUG UpdateProducerImpl:19 - fnrjknfj32kfr
+2024-05-08 08:47:55 DEBUG UpdateProducerImpl:19 - fjvnfjknvjfnv;k
+2024-05-08 09:14:29 DEBUG UpdateProducerImpl:19 - RMRRFRM4MF4R
+2024-05-08 09:14:38 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 09:18:38 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 09:18:42 DEBUG UpdateProducerImpl:19 - dd
+2024-05-08 09:20:34 DEBUG UpdateProducerImpl:19 - x ejnel3
+2024-05-08 09:20:57 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 09:24:05 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 09:24:16 DEBUG UpdateProducerImpl:19 - cat
+2024-05-08 09:25:31 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 09:28:49 DEBUG UpdateProducerImpl:19 - d
+2024-05-08 09:30:36 DEBUG UpdateProducerImpl:19 - mde3do
+2024-05-08 09:30:54 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 09:35:30 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 09:41:11 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 09:44:17 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 09:46:02 DEBUG UpdateProducerImpl:19 - cat
+2024-05-08 09:46:51 DEBUG UpdateProducerImpl:19 - cat
+2024-05-08 09:49:39 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 09:53:02 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 09:54:45 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 09:59:49 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:02:42 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:33:23 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:35:03 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:39:31 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:43:57 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:44:30 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:46:23 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:47:04 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:48:17 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:49:19 DEBUG UpdateProducerImpl:19 - \cat
+2024-05-08 10:49:19 ERROR TelegramBot:59 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: invalid file HTTP URL specified: Host is invalid
+2024-05-08 10:51:17 DEBUG UpdateProducerImpl:19 - \cat
+2024-05-08 10:51:18 ERROR TelegramBot:63 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: invalid file HTTP URL specified: Host is invalid
+2024-05-08 10:52:10 DEBUG UpdateProducerImpl:19 - \cat
+2024-05-08 10:52:10 ERROR TelegramBot:64 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: invalid file HTTP URL specified: Host is invalid
+2024-05-08 10:52:13 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:52:13 ERROR TelegramBot:64 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: invalid file HTTP URL specified: Host is invalid
+2024-05-08 10:53:19 DEBUG UpdateProducerImpl:19 - \cat
+2024-05-08 10:53:22 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:53:22 ERROR TelegramBot:65 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: invalid file HTTP URL specified: Host is invalid
+2024-05-08 10:54:14 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 10:56:44 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 14:51:04 DEBUG UpdateProducerImpl:19 - /cat
+2024-05-08 14:52:03 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 14:53:49 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 14:54:22 DEBUG UpdateProducerImpl:19 - /help
+2024-05-08 14:54:30 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 14:54:32 DEBUG UpdateProducerImpl:19 - /next
+2024-05-08 14:54:36 DEBUG UpdateProducerImpl:19 - /end
+2024-05-08 14:59:20 DEBUG UpdateProducerImpl:19 - /middleage
+2024-05-08 14:59:39 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 15:05:13 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 15:05:23 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 15:05:23 ERROR TelegramBot:71 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: wrong remote file identifier specified: Wrong string length
+2024-05-08 15:05:23 ERROR TelegramBot:71 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: wrong remote file identifier specified: Wrong string length
+2024-05-08 15:09:44 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 15:09:44 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: File_id can't be empty in object: InputFile(attachName=, mediaName=null, newMediaFile=null, newMediaStream=null, isNew=false)
+2024-05-08 15:09:44 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: File_id can't be empty in object: InputFile(attachName=, mediaName=null, newMediaFile=null, newMediaStream=null, isNew=false)
+2024-05-08 15:25:55 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 15:25:55 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: File_id can't be empty in object: InputFile(attachName=, mediaName=null, newMediaFile=null, newMediaStream=null, isNew=false)
+2024-05-08 15:25:55 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: File_id can't be empty in object: InputFile(attachName=, mediaName=null, newMediaFile=null, newMediaStream=null, isNew=false)
+2024-05-08 15:26:14 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 15:26:14 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:29:13 DEBUG UpdateProducerImpl:19 - start
+2024-05-08 15:29:13 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:32:25 DEBUG UpdateProducerImpl:19 - start
+2024-05-08 15:32:26 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:32:29 DEBUG UpdateProducerImpl:19 - end
+2024-05-08 15:32:29 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:32:59 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 15:32:59 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:41:39 DEBUG UpdateProducerImpl:19 - start
+2024-05-08 15:41:39 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:41:42 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 15:41:42 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:49:17 DEBUG UpdateProducerImpl:19 - START
+2024-05-08 15:49:17 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:49:20 DEBUG UpdateProducerImpl:19 - start
+2024-05-08 15:49:20 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:49:22 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 15:49:22 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:50:43 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 15:50:43 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:54:03 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 15:54:03 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:57:13 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 15:57:14 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 15:57:15 DEBUG UpdateProducerImpl:19 - start
+2024-05-08 15:57:15 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 16:04:01 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 16:04:01 ERROR TelegramBot:71 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: Text parameter can't be empty in method: SendMessage(chatId=1080578927, text=, parseMode=null, disableWebPagePreview=null, disableNotification=null, replyToMessageId=null, replyMarkup=null, entities=null, allowSendingWithoutReply=null, protectContent=null)
+2024-05-08 16:06:37 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 16:06:43 DEBUG UpdateProducerImpl:19 - /end
+2024-05-08 16:06:49 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 16:06:51 ERROR UpdateProcessor:39 - Unsupported message type is received: Update(updateId=669542717, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=289, from=User(id=1080578927, firstName=Maxim, isBot=false, lastName=Maxim, userName=MaXimMaXiM209, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1715173608, chat=Chat(id=1080578927, type=private, title=null, firstName=Maxim, lastName=Maxim, userName=MaXimMaXiM209, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=middleages, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1715173611, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2024-05-08 16:07:00 DEBUG UpdateProducerImpl:19 - middleages
+2024-05-08 16:09:52 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 16:09:52 DEBUG TelegramBot:52 - 00000
+2024-05-08 16:10:10 DEBUG UpdateProducerImpl:19 - /ancient
+2024-05-08 16:10:10 DEBUG TelegramBot:52 - 00000
+2024-05-08 17:06:51 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 17:06:52 DEBUG TelegramBot:52 - 11111
+2024-05-08 17:06:52 ERROR TelegramBot:70 - org.telegram.telegrambots.meta.exceptions.TelegramApiValidationException: File_id can't be empty in object: InputFile(attachName=, mediaName=null, newMediaFile=null, newMediaStream=null, isNew=false)
+2024-05-08 17:41:59 DEBUG UpdateProducerImpl:19 - start
+2024-05-08 17:41:59 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 17:41:59 DEBUG MainServiceImpl:55 - DEBUGGING 1
+2024-05-08 17:42:02 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 17:50:04 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 17:50:04 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 17:50:04 DEBUG MainServiceImpl:53 - DEBUGGING 1
+2024-05-08 17:50:04 DEBUG MainServiceImpl:115 - Welcome to historynovelbot , choose epoch of novel:
+2024-05-08 17:50:04 DEBUG TelegramBot:48 - Welcome to historynovelbot , choose epoch of novel:
+2024-05-08 17:50:15 DEBUG UpdateProducerImpl:19 - /end
+2024-05-08 17:50:15 DEBUG TelegramBot:48 - Thanks for using this bot , return as soon as you can
+2024-05-08 17:50:20 DEBUG UpdateProducerImpl:19 - /help
+2024-05-08 17:50:20 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 17:50:20 DEBUG MainServiceImpl:53 - DEBUGGING 1
+2024-05-08 17:50:20 DEBUG MainServiceImpl:115 - You have commands: /start(for start bot) , /next(move to next novel) , /end(exit the bot)
+After this you can choose epoch and current novel
+2024-05-08 17:50:20 DEBUG TelegramBot:48 - You have commands: /start(for start bot) , /next(move to next novel) , /end(exit the bot)
+After this you can choose epoch and current novel
+2024-05-08 17:50:49 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 17:50:49 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 17:51:01 DEBUG UpdateProducerImpl:19 - /battle
+2024-05-08 17:51:01 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 17:51:01 DEBUG MainServiceImpl:53 - DEBUGGING 1
+2024-05-08 17:51:01 DEBUG TelegramBot:48 - Incorrect command
+2024-05-08 17:51:52 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 17:51:52 DEBUG TelegramBot:48 - battle
+
+2024-05-08 17:51:52 ERROR TelegramBot:60 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: wrong remote file identifier specified: Wrong character in the string
+2024-05-08 17:53:41 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 17:53:41 DEBUG TelegramBot:48 - battle
+
+2024-05-08 17:53:41 ERROR TelegramBot:60 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: wrong remote file identifier specified: Wrong character in the string
+2024-05-08 17:55:14 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 17:55:14 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 17:55:14 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 17:55:21 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 17:55:21 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 17:55:21 DEBUG MainServiceImpl:53 - DEBUGGING 1
+2024-05-08 17:55:21 DEBUG TelegramBot:48 - battle
+
+2024-05-08 17:55:21 DEBUG TelegramBot:54 - battle
+
+2024-05-08 17:55:21 ERROR TelegramBot:61 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: wrong remote file identifier specified: Wrong character in the string
+2024-05-08 17:57:19 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 17:57:19 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 17:57:19 DEBUG MainServiceImpl:53 - DEBUGGING 1
+2024-05-08 17:57:19 DEBUG TelegramBot:48 - battle
+
+2024-05-08 17:57:19 DEBUG TelegramBot:54 - battle
+
+2024-05-08 17:57:20 ERROR TelegramBot:61 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: wrong remote file identifier specified: Wrong character in the string
+2024-05-08 17:59:11 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 17:59:11 DEBUG TelegramBot:48 - battle
+
+2024-05-08 17:59:11 DEBUG TelegramBot:54 - battle
+
+2024-05-08 17:59:11 ERROR TelegramBot:61 - Error executing org.telegram.telegrambots.meta.api.methods.send.SendPhoto query: [400] Bad Request: wrong remote file identifier specified: Wrong character in the string
+2024-05-08 17:59:14 DEBUG UpdateProducerImpl:19 - bat
+2024-05-08 17:59:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 17:59:14 DEBUG MainServiceImpl:53 - DEBUGGING 1
+2024-05-08 17:59:14 DEBUG TelegramBot:48 - Incorrect command
+2024-05-08 18:03:51 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:03:51 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:03:51 DEBUG MainServiceImpl:53 - DEBUGGING 1
+2024-05-08 18:03:51 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 18:03:51 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 18:03:52 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:03:52 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:08:06 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:08:06 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 18:08:06 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 18:08:07 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:08:07 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:14:15 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 18:14:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:14:15 DEBUG MainServiceImpl:53 - DEBUGGING 1
+2024-05-08 18:14:15 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:14:33 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 18:14:33 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:26:19 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:26:26 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 18:26:26 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:26:26 DEBUG MainServiceImpl:40 - DEBUGGING 1
+2024-05-08 18:26:26 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:26:29 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:30:32 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 18:30:33 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:30:36 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:30:36 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:30:36 DEBUG MainServiceImpl:98 - NonEqual state
+2024-05-08 18:30:36 DEBUG MainServiceImpl:98 - NonEqual state
+2024-05-08 18:36:12 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 18:36:12 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:36:13 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:36:27 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:37:44 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 18:37:44 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:37:44 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:37:47 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:39:56 DEBUG UpdateProducerImpl:19 - middleages
+2024-05-08 18:39:56 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:39:56 DEBUG TelegramBot:48 - Incorrect command
+2024-05-08 18:40:00 ERROR UpdateProcessor:39 - Unsupported message type is received: Update(updateId=669542750, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=342, from=User(id=1080578927, firstName=Maxim, isBot=false, lastName=Maxim, userName=MaXimMaXiM209, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1715182796, chat=Chat(id=1080578927, type=private, title=null, firstName=Maxim, lastName=Maxim, userName=MaXimMaXiM209, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=middleage, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1715182800, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2024-05-08 18:40:05 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 18:40:05 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:41:20 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 18:41:20 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:41:20 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 18:41:52 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 18:41:52 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 18:41:55 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 18:41:55 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:41:55 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 18:41:56 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 18:41:57 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 18:42:01 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 18:42:01 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:42:01 DEBUG MainServiceImpl:95 - Equal state
+2024-05-08 18:42:01 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:42:01 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:42:10 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 18:42:10 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 18:42:15 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 18:42:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:42:15 DEBUG MainServiceImpl:95 - Equal state
+2024-05-08 18:42:15 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:42:15 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:42:20 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 18:42:20 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:42:22 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:42:22 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:42:22 DEBUG MainServiceImpl:95 - Equal state
+2024-05-08 18:42:22 DEBUG MainServiceImpl:98 - NonEqual state
+2024-05-08 18:42:22 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 18:42:22 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 18:44:47 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 18:44:47 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:44:47 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:44:51 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 18:44:51 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 18:46:34 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 18:46:34 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:46:34 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:46:39 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 18:46:39 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 18:47:06 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 18:47:06 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:47:06 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:48:05 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 18:48:06 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:48:25 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:48:25 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:48:25 DEBUG MainServiceImpl:99 - NonEqual state
+2024-05-08 18:48:25 DEBUG MainServiceImpl:99 - NonEqual state
+2024-05-08 18:48:41 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 18:48:41 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 18:49:27 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 18:49:27 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:49:27 DEBUG MainServiceImpl:99 - NonEqual state
+2024-05-08 18:49:32 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:49:32 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 18:49:32 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 18:51:40 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 18:51:40 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:51:40 DEBUG MainServiceImpl:71 - 1
+2024-05-08 18:51:40 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:51:43 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:51:49 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:51:49 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:51:49 DEBUG MainServiceImpl:99 - NonEqual state
+2024-05-08 18:51:49 DEBUG MainServiceImpl:96 - Equal state
+2024-05-08 18:51:49 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:51:49 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:51:59 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:52:06 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:52:06 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:52:06 DEBUG MainServiceImpl:99 - NonEqual state
+2024-05-08 18:52:06 DEBUG MainServiceImpl:96 - Equal state
+2024-05-08 18:52:06 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:52:06 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:55:36 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 18:55:36 DEBUG TelegramBot:48 - battle
+
+2024-05-08 18:55:39 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:55:39 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:55:39 DEBUG MainServiceImpl:99 - NonEqual state
+2024-05-08 18:55:39 DEBUG MainServiceImpl:99 - NonEqual state
+2024-05-08 18:55:46 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 18:55:46 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:55:46 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 18:56:53 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 18:56:53 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 18:58:04 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 18:58:04 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:58:04 DEBUG MainServiceImpl:100 - NonEqual state
+2024-05-08 18:59:15 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 18:59:15 DEBUG TelegramBot:48 - Welcome to historynovelbot , choose epoch of novel:
+2024-05-08 18:59:25 DEBUG UpdateProducerImpl:19 - modern_time
+2024-05-08 18:59:25 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 18:59:25 DEBUG TelegramBot:48 - Incorrect command
+2024-05-08 18:59:29 ERROR UpdateProcessor:39 - Unsupported message type is received: Update(updateId=669542783, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=400, from=User(id=1080578927, firstName=Maxim, isBot=false, lastName=Maxim, userName=MaXimMaXiM209, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1715183965, chat=Chat(id=1080578927, type=private, title=null, firstName=Maxim, lastName=Maxim, userName=MaXimMaXiM209, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=moderntime, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1715183968, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2024-05-08 18:59:35 DEBUG UpdateProducerImpl:19 - moderntime
+2024-05-08 18:59:35 DEBUG TelegramBot:48 - Incorrect command
+2024-05-08 19:00:08 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 19:00:08 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 19:00:08 DEBUG MainServiceImpl:70 - 1
+2024-05-08 19:00:08 DEBUG TelegramBot:48 - battle
+
+2024-05-08 19:00:15 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 19:00:15 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 19:01:04 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 19:01:04 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 19:01:04 DEBUG MainServiceImpl:100 - NonEqual state
+2024-05-08 19:01:08 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 19:01:08 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 19:01:08 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 19:01:19 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 19:01:19 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 19:01:19 DEBUG MainServiceImpl:70 - 1
+2024-05-08 19:01:19 DEBUG TelegramBot:48 - battle
+
+2024-05-08 19:01:22 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 19:01:22 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 19:01:22 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 19:01:29 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 19:01:29 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 19:01:29 DEBUG MainServiceImpl:100 - NonEqual state
+2024-05-08 19:01:32 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 19:01:33 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 19:01:33 DEBUG TelegramBot:54 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 20:05:34 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 20:05:35 DEBUG TelegramBot:48 - battle
+
+2024-05-08 20:06:49 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:06:49 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:06:49 DEBUG MainServiceImpl:78 - cubes
+
+2024-05-08 20:06:49 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 20:07:58 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:07:58 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:07:58 DEBUG MainServiceImpl:78 - cubes
+
+2024-05-08 20:07:58 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 20:09:17 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 20:09:18 DEBUG TelegramBot:48 - battle
+
+2024-05-08 20:09:20 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:09:20 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:09:20 DEBUG MainServiceImpl:63 - 
+2024-05-08 20:10:08 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 20:10:12 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 20:10:12 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:10:12 DEBUG MainServiceImpl:63 - 
+2024-05-08 20:10:30 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 20:10:35 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:10:35 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:10:35 DEBUG MainServiceImpl:63 - 
+2024-05-08 20:10:50 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 20:10:50 DEBUG TelegramBot:48 - battle
+
+2024-05-08 20:10:52 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:10:52 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:10:52 DEBUG MainServiceImpl:63 - 
+2024-05-08 20:10:55 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:10:55 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 20:23:53 DEBUG UpdateProducerImpl:19 - dog
+2024-05-08 20:23:53 DEBUG TelegramBot:48 - Incorrect command
+2024-05-08 20:24:08 DEBUG UpdateProducerImpl:19 - /start
+2024-05-08 20:24:08 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:24:08 DEBUG MainServiceImpl:112 - Welcome to historynovelbot , choose epoch of novel:
+ancient / middleage / newtime or moderntime
+2024-05-08 20:24:08 DEBUG TelegramBot:48 - Welcome to historynovelbot , choose epoch of novel:
+ancient / middleage / newtime or moderntime
+2024-05-08 20:24:16 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 20:24:16 DEBUG TelegramBot:48 - battle
+
+2024-05-08 20:24:38 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:24:38 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:24:38 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 20:24:38 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 20:25:04 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 20:25:04 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 20:25:13 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:25:13 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:25:13 DEBUG MainServiceImpl:76 - Debug 1:battle
+2024-05-08 20:25:13 DEBUG MainServiceImpl:76 - Debug 1:cubes
+2024-05-08 20:25:13 DEBUG MainServiceImpl:80 - cubes
+
+2024-05-08 20:25:13 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 20:25:18 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 20:25:18 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 20:25:27 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:25:27 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:25:27 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 20:25:27 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 20:28:49 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:28:50 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 20:30:10 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:30:10 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:30:11 DEBUG MainServiceImpl:76 - Debug 1:battle
+2024-05-08 20:30:11 DEBUG MainServiceImpl:76 - Debug 1:cubes
+2024-05-08 20:30:11 DEBUG MainServiceImpl:80 - cubes
+
+2024-05-08 20:30:11 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 20:32:44 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:32:44 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:32:44 DEBUG MainServiceImpl:76 - Debug 1:battle
+2024-05-08 20:32:44 DEBUG MainServiceImpl:76 - Debug 1:cubes
+2024-05-08 20:32:44 DEBUG MainServiceImpl:80 - cubes
+
+2024-05-08 20:32:44 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 20:33:52 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:33:52 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:33:52 DEBUG MainServiceImpl:76 - Debug 1:battle
+2024-05-08 20:33:52 DEBUG MainServiceImpl:76 - Debug 1:cubes
+2024-05-08 20:33:52 DEBUG MainServiceImpl:80 - cubes
+
+2024-05-08 20:33:52 DEBUG TelegramBot:48 - cubes
+
+2024-05-08 20:34:26 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:34:27 DEBUG TelegramBot:48 - cubes
+2024-05-08 20:35:19 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:35:19 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:35:19 DEBUG MainServiceImpl:71 - battle
+2024-05-08 20:35:19 DEBUG MainServiceImpl:71 - cubes
+2024-05-08 20:35:19 DEBUG MainServiceImpl:74 - cubes
+2024-05-08 20:35:19 DEBUG TelegramBot:48 - cubes
+2024-05-08 20:36:20 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:36:21 DEBUG TelegramBot:48 - battle
+2024-05-08 20:37:49 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:37:49 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:37:49 DEBUG TelegramBot:48 - battlecubes
+2024-05-08 20:38:23 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:38:27 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 20:38:27 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:38:28 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 20:38:35 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:38:38 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:38:38 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:38:38 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 20:41:20 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:41:20 DEBUG TelegramBot:48 - battle
+cubes
+
+2024-05-08 20:41:23 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 20:41:23 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:41:44 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:41:44 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 20:41:50 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 20:41:50 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:41:54 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 20:41:54 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 20:41:59 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:41:59 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:42:03 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:42:03 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 20:42:16 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 20:42:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:42:16 DEBUG TelegramBot:48 - battle
+
+2024-05-08 20:42:19 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:42:19 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 20:42:24 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:42:24 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:42:24 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 20:43:55 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:43:55 DEBUG TelegramBot:48 - battle
+cubes
+
+2024-05-08 20:43:59 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 20:43:59 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:43:59 DEBUG MainServiceImpl:88 - 
+2024-05-08 20:45:29 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:45:29 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:45:29 DEBUG TelegramBot:48 - battle
+cubes
+
+2024-05-08 20:45:32 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:46:57 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 20:46:58 DEBUG TelegramBot:48 - battle
+
+2024-05-08 20:47:20 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:47:21 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:47:21 DEBUG MainServiceImpl:67 - State 1
+2024-05-08 20:47:21 DEBUG TelegramBot:48 - battle
+cubes
+
+2024-05-08 20:47:54 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:50:47 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:50:48 DEBUG TelegramBot:48 - battle
+cubes
+
+2024-05-08 20:51:10 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:51:10 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:51:10 DEBUG MainServiceImpl:89 - State: null
+2024-05-08 20:51:10 DEBUG MainServiceImpl:89 - State: null
+2024-05-08 20:53:14 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:53:14 DEBUG TelegramBot:48 - battle
+cubes
+
+2024-05-08 20:53:18 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 20:53:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:53:18 DEBUG MainServiceImpl:90 - State: 
+2024-05-08 20:53:48 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 20:53:48 DEBUG TelegramBot:48 - battle
+
+2024-05-08 20:54:40 DEBUG UpdateProducerImpl:19 - newtime
+2024-05-08 20:54:40 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:54:40 DEBUG TelegramBot:48 - Incorrect command
+2024-05-08 20:54:51 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 20:54:51 DEBUG TelegramBot:48 - battle
+
+2024-05-08 20:55:07 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:55:07 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:55:07 DEBUG MainServiceImpl:90 - State: 
+2024-05-08 20:55:07 DEBUG MainServiceImpl:90 - State: 
+2024-05-08 20:56:27 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:56:27 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:56:27 DEBUG MainServiceImpl:67 - State 1
+2024-05-08 20:56:27 DEBUG MainServiceImpl:70 - State 2: middleage
+2024-05-08 20:56:27 DEBUG TelegramBot:48 - battle
+cubes
+
+2024-05-08 20:56:47 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:57:49 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 20:57:49 DEBUG TelegramBot:48 - battle
+cubes
+
+2024-05-08 20:57:53 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 20:57:53 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:57:53 DEBUG MainServiceImpl:91 - State: 
+2024-05-08 20:57:53 DEBUG MainServiceImpl:91 - State: 
+2024-05-08 20:59:21 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 20:59:21 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 20:59:21 DEBUG MainServiceImpl:67 - State 1
+2024-05-08 20:59:21 DEBUG MainServiceImpl:70 - State 2: ancient
+2024-05-08 20:59:21 DEBUG TelegramBot:48 - battle
+
+2024-05-08 20:59:31 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:00:00 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 21:00:00 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:00:00 DEBUG MainServiceImpl:67 - State 1ancient
+2024-05-08 21:00:00 DEBUG MainServiceImpl:70 - State 2: middleage
+2024-05-08 21:00:00 DEBUG TelegramBot:48 - battle
+cubes
+
+2024-05-08 21:09:29 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 21:09:30 DEBUG TelegramBot:48 - battle
+cubes
+
+2024-05-08 21:09:46 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:09:46 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:09:46 DEBUG MainServiceImpl:87 - State: null
+2024-05-08 21:11:20 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 21:11:20 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 21:11:41 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 21:11:41 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:11:41 DEBUG MainServiceImpl:87 - State: null
+2024-05-08 21:13:31 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 21:13:31 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:13:31 DEBUG MainServiceImpl:67 - State 1null
+2024-05-08 21:13:31 DEBUG MainServiceImpl:70 - State 2: middleage
+2024-05-08 21:13:31 DEBUG TelegramBot:48 - battle
+cubes
+
+2024-05-08 21:13:44 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:31:28 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 21:31:28 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:31:28 DEBUG MainServiceImpl:67 - State 1null
+2024-05-08 21:31:28 DEBUG MainServiceImpl:70 - State 2: middleage
+2024-05-08 21:31:28 DEBUG TelegramBot:48 - battle
+cubes
+
+2024-05-08 21:31:31 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:31:34 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:31:34 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:31:35 DEBUG MainServiceImpl:87 - State: middleage
+2024-05-08 21:31:35 DEBUG MainServiceImpl:93 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 21:31:35 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 21:31:39 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:31:42 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:31:42 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:31:42 DEBUG MainServiceImpl:87 - State: middleage
+2024-05-08 21:31:42 DEBUG MainServiceImpl:93 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 21:31:42 DEBUG TelegramBot:48 - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 21:33:31 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 21:33:31 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:33:31 DEBUG MainServiceImpl:67 - State 1null
+2024-05-08 21:33:31 DEBUG MainServiceImpl:70 - State 2: middleage
+2024-05-08 21:33:34 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:33:38 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:33:38 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:33:38 DEBUG MainServiceImpl:87 - State: middleage
+2024-05-08 21:33:38 DEBUG MainServiceImpl:93 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 21:33:53 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 21:33:55 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 21:33:55 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:33:55 DEBUG MainServiceImpl:87 - State: middleage
+2024-05-08 21:33:55 DEBUG MainServiceImpl:93 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 21:34:06 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 21:34:09 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:34:09 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:34:09 DEBUG MainServiceImpl:87 - State: middleage
+2024-05-08 21:34:09 DEBUG MainServiceImpl:93 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 21:34:15 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:34:21 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:34:21 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:34:21 DEBUG MainServiceImpl:87 - State: middleage
+2024-05-08 21:34:21 DEBUG MainServiceImpl:93 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 21:34:24 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:57:38 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 21:57:41 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:57:41 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:57:41 DEBUG MainServiceImpl:88 - State: null
+2024-05-08 21:58:16 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:58:20 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:58:20 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:58:20 DEBUG MainServiceImpl:88 - State: null
+2024-05-08 21:58:23 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:58:32 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 21:58:32 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:58:32 DEBUG MainServiceImpl:88 - State: null
+2024-05-08 21:58:35 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 21:58:40 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 21:58:40 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:58:40 DEBUG MainServiceImpl:68 - State 1null
+2024-05-08 21:58:40 DEBUG MainServiceImpl:71 - State 2: ancient
+2024-05-08 21:58:44 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 21:58:46 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 21:58:46 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 21:58:46 DEBUG MainServiceImpl:88 - State: ancient
+2024-05-08 21:58:49 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 22:34:09 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 22:34:09 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:10 DEBUG MainServiceImpl:68 - State 1null
+2024-05-08 22:34:10 DEBUG MainServiceImpl:71 - State 2: middleage
+2024-05-08 22:34:12 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:34:12 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:13 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:13 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:13 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:13 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:13 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:13 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:13 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:13 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:13 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:13 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:13 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:13 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:13 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:13 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:13 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:13 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:13 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:13 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:13 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:13 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:13 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:13 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:13 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:13 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:13 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:13 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:13 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:13 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:13 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:13 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:13 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:13 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:13 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:13 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:13 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:13 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:13 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:13 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:13 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:14 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:14 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:14 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:15 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:15 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:15 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:15 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:16 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:16 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:16 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:17 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:17 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:17 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:18 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:18 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:18 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:18 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:19 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:19 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:19 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:19 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:19 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:19 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:19 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:19 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:19 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:19 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:19 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:19 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:19 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:19 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:19 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:19 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:19 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:19 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:19 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:19 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:19 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:19 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:19 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:19 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:19 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:19 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:19 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:19 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:19 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:19 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:19 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:19 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:19 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:19 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:19 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:34:19 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:34:19 DEBUG MainServiceImpl:88 - State: middleage
+2024-05-08 22:34:19 DEBUG MainServiceImpl:89 - Firstly: 1
+2024-05-08 22:34:19 DEBUG MainServiceImpl:94 - Secondly: 500
+2024-05-08 22:35:43 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 22:35:46 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 22:35:46 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:35:46 DEBUG MainServiceImpl:94 - Secondly: 3
+2024-05-08 22:40:54 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 22:40:54 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:40:54 DEBUG MainServiceImpl:68 - State 1null
+2024-05-08 22:40:54 DEBUG MainServiceImpl:71 - State 2: ancient
+2024-05-08 22:41:12 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:41:34 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:41:34 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:41:34 DEBUG MainServiceImpl:94 - Secondly: 1
+2024-05-08 22:41:34 DEBUG MainServiceImpl:100 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 22:41:45 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:41:48 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:41:48 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:41:48 DEBUG MainServiceImpl:94 - Secondly: 1
+2024-05-08 22:41:48 DEBUG MainServiceImpl:100 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 22:42:23 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 22:42:43 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:42:43 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:42:43 DEBUG MainServiceImpl:94 - Secondly: 1
+2024-05-08 22:42:43 DEBUG MainServiceImpl:100 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 22:43:04 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 22:43:08 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 22:43:08 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:43:09 DEBUG MainServiceImpl:94 - Secondly: 3
+2024-05-08 22:43:24 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 22:43:28 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 22:43:28 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:43:28 DEBUG MainServiceImpl:68 - State 1ancient
+2024-05-08 22:43:28 DEBUG MainServiceImpl:71 - State 2: ancient
+2024-05-08 22:43:31 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:43:35 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:43:35 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:43:35 DEBUG MainServiceImpl:94 - Secondly: 1
+2024-05-08 22:43:35 DEBUG MainServiceImpl:100 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 22:45:17 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 22:45:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:45:18 DEBUG MainServiceImpl:68 - State 1null
+2024-05-08 22:45:18 DEBUG MainServiceImpl:71 - State 2: ancient
+2024-05-08 22:45:33 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:47:31 DEBUG UpdateProducerImpl:19 - фтсшуте
+2024-05-08 22:47:31 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:47:34 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 22:47:52 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:47:52 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:47:52 DEBUG MainServiceImpl:88 - debugging: null
+2024-05-08 22:47:54 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:51:51 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 22:51:54 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:51:54 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:51:54 DEBUG MainServiceImpl:88 - debugging: null
+2024-05-08 22:52:11 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:52:23 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 22:52:23 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:52:23 DEBUG MainServiceImpl:68 - State 1null
+2024-05-08 22:52:23 DEBUG MainServiceImpl:71 - State 2: middleage
+2024-05-08 22:52:29 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:52:40 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 22:52:40 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:52:40 DEBUG MainServiceImpl:88 - debugging: middleage
+2024-05-08 22:52:40 DEBUG MainServiceImpl:95 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 22:52:50 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:52:54 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 22:52:54 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:52:54 DEBUG MainServiceImpl:68 - State 1middleage
+2024-05-08 22:52:54 DEBUG MainServiceImpl:71 - State 2: ancient
+2024-05-08 22:52:57 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:53:05 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 22:53:05 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:53:05 DEBUG MainServiceImpl:88 - debugging: ancient
+2024-05-08 22:53:07 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 22:53:10 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 22:53:10 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:53:10 DEBUG MainServiceImpl:88 - debugging: ancient
+2024-05-08 22:53:18 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 22:53:20 DEBUG UpdateProducerImpl:19 - cybes
+2024-05-08 22:53:20 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:53:24 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:53:32 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:53:32 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:53:32 DEBUG MainServiceImpl:88 - debugging: ancient
+2024-05-08 22:53:32 DEBUG MainServiceImpl:95 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 22:53:35 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:53:39 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 22:53:39 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 22:53:39 DEBUG MainServiceImpl:88 - debugging: ancient
+2024-05-08 22:53:39 DEBUG MainServiceImpl:95 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 23:10:49 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 23:10:53 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 23:10:53 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:10:54 DEBUG MainServiceImpl:93 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 23:11:14 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 23:11:17 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 23:11:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:11:17 DEBUG MainServiceImpl:93 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 23:11:38 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 23:11:54 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:11:54 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:11:54 DEBUG MainServiceImpl:93 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 23:11:58 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:14:34 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:14:38 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 23:14:38 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:14:38 DEBUG MainServiceImpl:68 - State 1null
+2024-05-08 23:14:38 DEBUG MainServiceImpl:71 - State 2: ancient
+2024-05-08 23:14:43 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 23:14:58 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 23:14:58 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:14:58 DEBUG MainServiceImpl:93 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 23:15:08 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 23:15:14 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:15:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:15:15 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:18:22 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 23:18:22 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:18:22 DEBUG MainServiceImpl:68 - State 1null
+2024-05-08 23:18:22 DEBUG MainServiceImpl:71 - State 2: middleage
+2024-05-08 23:20:49 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 23:20:49 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:20:49 DEBUG MainServiceImpl:68 - State 1middleage
+2024-05-08 23:20:49 DEBUG MainServiceImpl:71 - State 2: middleage
+2024-05-08 23:21:18 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 23:21:27 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:21:27 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:21:29 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:25:43 DEBUG UpdateProducerImpl:19 - фтсшуте
+2024-05-08 23:25:43 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:25:46 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 23:25:50 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 23:25:50 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:25:52 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 23:25:58 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 23:25:58 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:26:01 DEBUG UpdateProducerImpl:19 - battlle
+2024-05-08 23:26:05 ERROR UpdateProcessor:39 - Unsupported message type is received: Update(updateId=669542955, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=695, from=User(id=1080578927, firstName=Maxim, isBot=false, lastName=Maxim, userName=MaXimMaXiM209, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1715199961, chat=Chat(id=1080578927, type=private, title=null, firstName=Maxim, lastName=Maxim, userName=MaXimMaXiM209, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=battle, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1715199965, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2024-05-08 23:26:12 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 23:26:12 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:26:17 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 23:26:35 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 23:26:35 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:26:35 DEBUG MainServiceImpl:68 - State 1null
+2024-05-08 23:26:35 DEBUG MainServiceImpl:71 - State 2: middleage
+2024-05-08 23:26:38 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 23:26:40 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 23:26:40 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:26:40 DEBUG MainServiceImpl:96 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-08 23:26:50 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:26:52 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:26:52 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:26:52 DEBUG MainServiceImpl:96 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-08 23:26:52 DEBUG MainServiceImpl:96 - Equal state: https://m.media-amazon.com/images/M/MV5BOTA3NmU1NDMtYzcxMC00ZjI5LTllZWItYWI3MmZkNTE1ZTg0XkEyXkFqcGdeQW1hcmNtYW5u._V1_QL75_UX500_CR0,0,500,281_.jpg
+2024-05-08 23:56:03 DEBUG UpdateProducerImpl:19 - /middleage
+2024-05-08 23:56:03 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:56:08 ERROR UpdateProcessor:39 - Unsupported message type is received: Update(updateId=669542964, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=709, from=User(id=1080578927, firstName=Maxim, isBot=false, lastName=Maxim, userName=MaXimMaXiM209, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1715201763, chat=Chat(id=1080578927, type=private, title=null, firstName=Maxim, lastName=Maxim, userName=MaXimMaXiM209, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=middleage, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1715201768, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2024-05-08 23:56:12 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-08 23:56:17 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:56:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:56:19 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:56:23 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:56:23 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:56:26 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:56:28 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-08 23:56:28 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:56:35 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 23:56:42 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 23:56:42 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:56:44 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 23:56:48 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-08 23:56:48 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:56:51 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-08 23:56:53 DEBUG UpdateProducerImpl:19 - battle
+2024-05-08 23:56:53 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-08 23:56:57 DEBUG UpdateProducerImpl:19 - battle
+2024-05-09 00:18:29 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-09 00:18:29 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:18:29 DEBUG MainServiceImpl:70 - State 1null
+2024-05-09 00:18:29 DEBUG MainServiceImpl:73 - State 2: ancient
+2024-05-09 00:18:32 DEBUG UpdateProducerImpl:19 - battle
+2024-05-09 00:18:39 DEBUG UpdateProducerImpl:19 - battle
+2024-05-09 00:18:39 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:18:39 DEBUG MainServiceImpl:97 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-09 00:18:45 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-09 00:18:47 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-09 00:18:47 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:18:47 DEBUG MainServiceImpl:97 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-09 00:18:50 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-09 00:18:56 DEBUG UpdateProducerImpl:19 - battle
+2024-05-09 00:18:56 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:18:56 DEBUG MainServiceImpl:97 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-09 00:19:02 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-09 00:22:07 DEBUG UpdateProducerImpl:19 - ancient
+2024-05-09 00:22:07 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:22:07 DEBUG MainServiceImpl:70 - State 1null
+2024-05-09 00:22:07 DEBUG MainServiceImpl:73 - State 2: ancient
+2024-05-09 00:22:10 DEBUG UpdateProducerImpl:19 - battle
+2024-05-09 00:22:10 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:22:10 DEBUG MainServiceImpl:98 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-09 00:22:13 DEBUG UpdateProducerImpl:19 - battle
+2024-05-09 00:22:13 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:22:13 DEBUG MainServiceImpl:98 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-09 00:22:17 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-09 00:22:17 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:22:27 DEBUG UpdateProducerImpl:19 - middleage
+2024-05-09 00:22:30 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-09 00:22:30 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:22:32 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-09 00:22:35 DEBUG UpdateProducerImpl:19 - battle
+2024-05-09 00:22:35 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:22:35 DEBUG MainServiceImpl:98 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-09 00:22:45 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-09 00:31:08 DEBUG UpdateProducerImpl:19 - /start
+2024-05-09 00:31:08 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:31:08 DEBUG MainServiceImpl:111 - ru.example.entity.HistoryData@73431fed
+ru.example.entity.HistoryData@7301d950
+ru.example.entity.HistoryData@41253a39
+ru.example.entity.HistoryData@36704f71
+
+2024-05-09 00:35:41 DEBUG UpdateProducerImpl:19 - /start
+2024-05-09 00:35:41 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:35:41 DEBUG MainServiceImpl:111 - ru.example.entity.HistoryData@78c6c
+ru.example.entity.HistoryData@42932dde
+ru.example.entity.HistoryData@b9cd11e
+ru.example.entity.HistoryData@59b34fff
+
+2024-05-09 00:37:03 DEBUG UpdateProducerImpl:19 - /start
+2024-05-09 00:37:03 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:37:04 DEBUG MainServiceImpl:111 - battleBetweenCatAndPerson
+battle
+cubes
+battleBetweenCatAndPerson
+
+2024-05-09 00:42:34 DEBUG UpdateProducerImpl:19 - /start
+2024-05-09 00:44:03 DEBUG UpdateProducerImpl:19 - battle
+2024-05-09 00:44:03 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:44:03 DEBUG MainServiceImpl:97 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpLq_rd6fX7q-69J63c-76mUSP4X1O4mklN8P9nn5gtA&s
+2024-05-09 00:44:08 DEBUG UpdateProducerImpl:19 - cubes
+2024-05-09 00:44:14 DEBUG UpdateProducerImpl:19 - battleBetweenCatAndPerson
+2024-05-09 00:44:14 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:44:14 DEBUG MainServiceImpl:97 - Equal state: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_jgho-PgO5rtMOErauKhhRLlb8vsl5cof3RBLf1o1jw&s
+2024-05-09 00:44:14 DEBUG MainServiceImpl:97 - Equal state: https://m.media-amazon.com/images/M/MV5BOTA3NmU1NDMtYzcxMC00ZjI5LTllZWItYWI3MmZkNTE1ZTg0XkEyXkFqcGdeQW1hcmNtYW5u._V1_QL75_UX500_CR0,0,500,281_.jpg
+2024-05-09 00:47:16 DEBUG UpdateProducerImpl:19 - /start
+2024-05-09 00:47:16 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:47:16 DEBUG MainServiceImpl:98 - Welcome to historynovelbot , you can choose necessary novel for you:
+Suggestion variables: 
+battleBetweenCatAndPerson
+battle
+cubes
+
+2024-05-09 00:47:21 DEBUG UpdateProducerImpl:19 - /help
+2024-05-09 00:47:49 DEBUG UpdateProducerImpl:19 - /end
+2024-05-09 00:47:49 DEBUG ConsumerServiceImpl:25 - NODE: Text message is received
+2024-05-09 00:47:49 DEBUG MainServiceImpl:98 - Thanks for using this bot , return as soon as you can

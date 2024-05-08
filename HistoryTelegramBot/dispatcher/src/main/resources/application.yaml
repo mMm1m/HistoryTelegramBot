@@ -1,0 +1,33 @@
+server:
+  port: 8084
+  ssl:
+    enabled: false
+
+bot:
+  name: itmohistorynovelbot
+  token: 7165285757:AAFzAYKrWE0jgUphwFGfStDLsDCkWpMU-Zc
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: user
+    password: password
+    queues:
+      text-message-update: text_message_update
+      doc-message-update: doc_message_update
+      photo-message-update: photo_message_update
+      answer-message: answer_message
+  datasource:
+    driver-class-name: org.postgresql.Driver
+  profiles:
+    active: development
+
+logging:
+  level:
+    root: INFO
+
+# Используем переменную среды JAVA_TOOL_OPTIONS
+java:
+  tool:
+    options: ${JAVA_TOOL_OPTIONS2}
