@@ -30,4 +30,6 @@ public class DAOInit {
             historyDAO.save(data);
         }
     }
+
+
 }

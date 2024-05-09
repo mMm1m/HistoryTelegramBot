@@ -6,15 +6,15 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Update;
-import ru.example.NodeApplication;
-import ru.example.StartApplication;
 import ru.example.dao.HistoryDAO;
 import ru.example.dao.RawDataDAO;
+import ru.example.dao.EpochRepository;
+import ru.example.entity.Epoch;
 import ru.example.entity.HistoryData;
 import ru.example.service.MainService;
 import ru.example.service.ProducerService;
 import ru.example.entity.RawData;
-import ru.example.service.enums.Epochs;
+import ru.example.service.enums.ServiceCommands;
 
 import java.util.*;
 
@@ -29,12 +29,7 @@ public class MainServiceImpl implements MainService {
 
     private final HistoryDAO historyDAO;
 
-    List<String> list = List.of("ancient", "middleage");
-
-    //private static String state = "";
-
-
-    // private final FileService fileService;
+    private final EpochRepository studentRepository;
 
     @Transactional
     @Override
@@ -44,22 +39,19 @@ public class MainServiceImpl implements MainService {
         var sendMessage = new SendMessage();
         sendMessage.setChatId(update.getMessage().getChatId());
         String text = update.getMessage().getText();
-        //System.out.println(text);
         boolean flag = true;
 
             if(text.equals("/start"))
             {
                 StringBuilder builder = new StringBuilder();
-                builder.append("Welcome to historynovelbot , you can choose necessary novel for you:" + '\n' +
+                builder.append("Welcome to historynovelbot , you can choose necessary novel for you after choosing epoch:" + '\n' +
                         "Suggestion variables: " + '\n');
-                List<HistoryData> dataList = historyDAO.findAll();
-                Set<String> happens = new HashSet<>();
+
+                ServiceCommands[] dataList = ServiceCommands.values();
                 for(var a : dataList)
                 {
                     //log.debug(a.getEvent());
-                    if(!happens.contains(a.getEvent())) happens.add(a.getEvent());
-                    else continue;
-                    builder.append(a.getEvent());
+                    builder.append(a.name());
                     builder.append('\n');
                 }
                 sendMessage.setText(builder.toString());
@@ -74,14 +66,41 @@ public class MainServiceImpl implements MainService {
             else flag = false;
         if(!flag)
         {
-            if(historyDAO.existsByEvent(text))
+            if(historyDAO.existsByEpoch(text))
+            {
+                StringBuilder builder = new StringBuilder();
+                builder.append("List of available events is here:");
+                builder.append('\n');
+                studentRepository.deleteById("state");
+                studentRepository.save(new Epoch("state" , text));
+                List<HistoryData> list = historyDAO.findByEpoch(text);
+                Set<String> set = new HashSet<>();
+                for(var a: list)
+                {
+                    int size = set.size();
+                    set.add(a.getEvent());
+                    if(size != set.size())
+                    {
+                        builder.append(a.getEvent());
+                        builder.append('\n');
+                    }
+                }
+                sendMessage.setText(builder.toString());
+                sendMessage.setDisableNotification(false);
+                producerService.producerAnswer(sendMessage);
+            }
+            else if(historyDAO.existsByEvent(text))
             {
                 List<HistoryData> list = historyDAO.findByEvent(text);
                 Map<Long, String> map = new TreeMap<>();
                 for(var a : list) map.put(a.getId(), a.getReference());
                 for(var a : map.keySet())
                 {
-                        log.debug("Equal state: " + map.get(a));
+                    log.debug("DEDUG:"+studentRepository.findById("state").get().getEpoch()+"   "+
+                            historyDAO.getById(a).getEpoch());
+
+                    if(studentRepository.findById("state").get().getEpoch()
+                            .equals(historyDAO.getById(a).getEpoch()))
                         sendMessage.setText(map.get(a));
                         sendMessage.setDisableNotification(true);
                         producerService.producerAnswer(sendMessage);
@@ -95,11 +114,9 @@ public class MainServiceImpl implements MainService {
             }
             return;
         }
-        log.debug(sendMessage.getText());
         sendMessage.setDisableNotification(false);
         producerService.producerAnswer(sendMessage);
     }
-
 
     private void saveRawData(Update update) {
         var rawData = RawData.builder()

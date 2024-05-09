@@ -1,31 +1,18 @@
 package ru.example.service.enums;
 
-
 public enum ServiceCommands {
-    START("/start"),
-    HELP("/help"),
-    NEXT("/next"),
-    END("/end");
-
-    private final String cmd;
-
-    ServiceCommands(String val)
-    {
-        this.cmd = val;
-    }
-
+    ANCIENT("ancient"),
+    MIDDLEAGE("middleage"),
+    NEWTIME("newtime"),
+    MODERNTIME("moderntime");
+    private String value;
     @Override
     public String toString()
     {
-        return cmd;
+        return value;
     }
-
-    public ServiceCommands fromCommand(String string)
+    ServiceCommands(String value)
     {
-        for(var a: ServiceCommands.values())
-        {
-            if(a.cmd.equals(string)) return a;
-        }
-        return null;
+        this.value = value;
     }
 }

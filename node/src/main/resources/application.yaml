@@ -22,6 +22,12 @@ spring:
     generate-ddl: true
   profiles:
     active: development
+  data:
+    redis:
+      database: 0
+      host: localhost
+      port: 6379
+      timeout: 60000
 
 token: 7165285757:AAFzAYKrWE0jgUphwFGfStDLsDCkWpMU-Zc
 
