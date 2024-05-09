@@ -21,11 +21,14 @@ public class HistoryData {
     private String event;
     @Column(name = "epoch")
     private String epoch;
+    @Column(name = "text")
+    private String text;
 
-    public HistoryData(String ref, String event, String epoch)
+    public HistoryData(String ref, String event, String epoch, String text)
     {
         this.reference = ref;
         this.event = event;
         this.epoch = epoch;
+        this.text = text;
     }
 }

@@ -6,6 +6,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import org.telegram.telegrambots.meta.api.methods.send.SendMessage;
 import org.telegram.telegrambots.meta.api.objects.Update;
+import org.telegram.telegrambots.meta.api.objects.replykeyboard.InlineKeyboardMarkup;
+import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.InlineKeyboardButton;
 import ru.example.dao.HistoryDAO;
 import ru.example.dao.RawDataDAO;
 import ru.example.dao.EpochRepository;
@@ -39,6 +41,7 @@ public class MainServiceImpl implements MainService {
         var sendMessage = new SendMessage();
         sendMessage.setChatId(update.getMessage().getChatId());
         String text = update.getMessage().getText();
+        sendMessage.setDisableNotification(false);
         boolean flag = true;
 
             if(text.equals("/start"))
@@ -46,11 +49,9 @@ public class MainServiceImpl implements MainService {
                 StringBuilder builder = new StringBuilder();
                 builder.append("Welcome to historynovelbot , you can choose necessary novel for you after choosing epoch:" + '\n' +
                         "Suggestion variables: " + '\n');
-
                 ServiceCommands[] dataList = ServiceCommands.values();
                 for(var a : dataList)
                 {
-                    //log.debug(a.getEvent());
                     builder.append(a.name());
                     builder.append('\n');
                 }
@@ -63,7 +64,10 @@ public class MainServiceImpl implements MainService {
             else if(text.equals( "/end")) {
                 sendMessage.setText("Thanks for using this bot , return as soon as you can");
             }
-            else flag = false;
+            else {
+                sendMessage.setDisableNotification(true);
+                flag = false;
+            }
         if(!flag)
         {
             if(historyDAO.existsByEpoch(text))
@@ -93,28 +97,32 @@ public class MainServiceImpl implements MainService {
             {
                 List<HistoryData> list = historyDAO.findByEvent(text);
                 Map<Long, String> map = new TreeMap<>();
-                for(var a : list) map.put(a.getId(), a.getReference());
+                Map<Long, String> text_ = new HashMap<>();
+                for(var a : list) {
+                    map.put(a.getId(), a.getReference());
+                    text_.put(a.getId(), a.getText());
+                }
                 for(var a : map.keySet())
                 {
                     log.debug("DEDUG:"+studentRepository.findById("state").get().getEpoch()+"   "+
                             historyDAO.getById(a).getEpoch());
 
                     if(studentRepository.findById("state").get().getEpoch()
-                            .equals(historyDAO.getById(a).getEpoch()))
+                            .equals(historyDAO.getById(a).getEpoch())) {
                         sendMessage.setText(map.get(a));
+                        sendMessage.setParseMode(text_.get(a));
                         sendMessage.setDisableNotification(true);
                         producerService.producerAnswer(sendMessage);
+                    }
                 }
             }
             else
             {
                 sendMessage.setText("Incorrect command");
-                sendMessage.setDisableNotification(false);
                 producerService.producerAnswer(sendMessage);
             }
             return;
         }
-        sendMessage.setDisableNotification(false);
         producerService.producerAnswer(sendMessage);
     }
 
