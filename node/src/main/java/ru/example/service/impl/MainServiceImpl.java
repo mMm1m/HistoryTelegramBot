@@ -82,10 +82,10 @@ public class MainServiceImpl implements MainService {
                 for(var a: list)
                 {
                     int size = set.size();
-                    set.add(a.getEvent());
+                    set.add(a.getEvent().toLowerCase());
                     if(size != set.size())
                     {
-                        builder.append(a.getEvent());
+                        builder.append(a.getEvent().toLowerCase());
                         builder.append('\n');
                     }
                 }
