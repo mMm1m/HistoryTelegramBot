@@ -1,25 +1,36 @@
 package ru.example.configuration;
 
+import org.jvnet.hk2.annotations.Service;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.jdbc.DataSourceBuilder;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
+import ru.example.dao.AnswerRepository;
 import ru.example.dao.HistoryDAO;
+import ru.example.entity.Answers;
 import ru.example.entity.HistoryData;
 
 import javax.annotation.PostConstruct;
 import javax.sql.DataSource;
 import javax.validation.constraints.Min;
+import java.util.ArrayList;
 import java.util.List;
 
+@Service
 @Configuration
 public class DAOInit {
     @Autowired
     private HistoryDAO historyDAO;
+    @Autowired
+    private AnswerRepository repository;
 
     @PostConstruct
     public void init()
     {
+        Answers answer1 = new Answers("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjh3XXY-S1781IyWW_vV6NqIdDHtQ3qS4U1B-kVxQ1uw&s", "How many years was rules this emperor", "25", "30", "No correct answer", "", "30");
+        if(!repository.existsByTASK(answer1.getTASK()))
+            repository.save(answer1);
+
         // it became epoch/event - not cmd
         List<HistoryData> list = List.of( new HistoryData("https://avatars.dzeninfra.ru/get-zen_doc/96780/pub_5cfe2402253cb300aec67ab7_5cfe2572af7e3300afe02727/scale_1200", "Main battles of Rome Empire", "ancient", "The battle of Cape Eknom"),
                 new HistoryData("https://avatars.dzeninfra.ru/get-zen_doc/225409/pub_5cfe2402253cb300aec67ab7_5cfe25962a288b00b0767117/scale_1200", "Main battles of Rome Empire", "ancient", "The Battle of Cannes"),

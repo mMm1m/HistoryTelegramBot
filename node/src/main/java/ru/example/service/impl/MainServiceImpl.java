@@ -35,7 +35,7 @@ public class MainServiceImpl implements MainService {
 
     @Transactional
     @Override
-     public void processTextMessage(Update update) {
+    public void processTextMessage(Update update) {
         saveRawData(update);
 
         var sendMessage = new SendMessage();
@@ -44,30 +44,102 @@ public class MainServiceImpl implements MainService {
         sendMessage.setDisableNotification(false);
         boolean flag = true;
 
-            if(text.equals("/start"))
-            {
-                StringBuilder builder = new StringBuilder();
-                builder.append("Welcome to historynovelbot , you can choose necessary novel for you after choosing epoch:" + '\n' +
-                        "Suggestion variables: " + '\n');
-                ServiceCommands[] dataList = ServiceCommands.values();
-                for(var a : dataList)
-                {
-                    builder.append(a.name());
-                    builder.append('\n');
+        if(text.equals("/start"))
+        {
+            /*for (var a : answerRepository.findAll()) {
+                    //if (conditionRepository.findById("condition").get()
+                      //      .getCondition().equals("")){
+                        // photo_ref
+                        b.append(a.getPhoto());
+                        msg.setDisableNotification(true);
+                        msg.setText(b.toString());
+                        msg.setChatId(update.getMessage().getChatId());
+                        msg.setParseMode(a.getTASK());
+                        conditionRepository.deleteById("condition");
+                        conditionRepository.save(new Condition("condition", "InProcess"));
+                        producerService.producerAnswer(msg);
+
+                        msg = new SendMessage();
+                        b = new StringBuilder();
+
+                        String[] cmds = new String[]{a.getFirst_ans(), a.getSecond_ans(), a.getThird_ans()};
+                        for (var c : cmds) {
+                            b.append(c);
+                            b.append('\n');
+                        }
+                        msg.setText(b.toString());
+                        msg.setChatId(update.getMessage().getChatId());
+                        msg.setDisableNotification(false);
+                        producerService.producerAnswer(msg);
+                        //
+                    }
                 }
-                sendMessage.setText(builder.toString());
-            }
-            else if( text.equals("/help")) {
-                sendMessage.setText("You have commands: /start(for start bot) , /end(exit the bot)\n" +
-                        "After this you can choose epoch and current novel");
-            }
-            else if(text.equals( "/end")) {
-                sendMessage.setText("Thanks for using this bot , return as soon as you can");
-            }
+            //}
             else {
-                sendMessage.setDisableNotification(true);
-                flag = false;
+                //if(conditionRepository.findById("condition").get().getCondition().equals("InProcess")) {
+                    //conditionRepository.deleteById("condition");
+                    //conditionRepository.save(new Condition("condition", ""));
+                    for(var a : answerRepository.findAll())
+                    {
+                        msg = new SendMessage();
+                        b = new StringBuilder();
+                        msg.setChatId(update.getMessage().getChatId());
+                        msg.setDisableNotification(false);
+                        if(a.getCorrect_ans().equals(text))
+                        {
+                            Answers tmp  = a;
+                            answerRepository.deleteById(a.getId());
+
+                            tmp.setAnswer_for_each("Correct\n");
+                            answerRepository.save(tmp);
+                            Increment increment = incrementRepository.findById("increment").get();
+                            incrementRepository.deleteById("increment");
+                            incrementRepository.save(new Increment("increment", increment.getInc()+1));
+
+                        }
+                        if(incrementRepository.findById("increment").get().getInc() == answerRepository.findAll().size())
+                        {
+                            for(var c : answerRepository.findAll())
+                            {
+                                b.append(c.getAnswer_for_each());
+                                b.append('\n');
+                            }
+                        }
+                        else {
+                            b.append("next");
+                        }
+                        msg.setText(b.toString());
+                        producerService.producerAnswer(msg);
+                    }
+                //}
+                /*else {
+                    b.append("Try again");
+                    msg.setChatId(update.getMessage().getChatId());
+                    msg.setDisableNotification(false);
+                    producerService.producerAnswer(msg);
+                }*/
+            StringBuilder builder = new StringBuilder();
+            builder.append("Welcome to historynovelbot , you can choose necessary novel for you after choosing epoch:" + '\n' +
+                    "Suggestion variables: " + '\n');
+            ServiceCommands[] dataList = ServiceCommands.values();
+            for(var a : dataList)
+            {
+                builder.append(a.name());
+                builder.append('\n');
             }
+            sendMessage.setText(builder.toString());
+        }
+        else if( text.equals("/help")) {
+            sendMessage.setText("You have commands: /start(for start bot) , /end(exit the bot)\n" +
+                    "After this you can choose epoch and current novel");
+        }
+        else if(text.equals( "/end")) {
+            sendMessage.setText("Thanks for using this bot , return as soon as you can");
+        }
+        else {
+            sendMessage.setDisableNotification(true);
+            flag = false;
+        }
         if(!flag)
         {
             if(historyDAO.existsByEpoch(text))

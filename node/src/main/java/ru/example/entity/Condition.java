@@ -4,15 +4,10 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import org.springframework.data.redis.core.RedisHash;
 
-import java.io.Serializable;
-
 @Getter
 @AllArgsConstructor
-@RedisHash("Epoch")
-public class Epoch implements Serializable {
-
+@RedisHash("condition")
+public class Condition {
     private String id;
-    private String epoch;
-    //private int increment;
-    //private int grade;
+    private String condition;
 }
